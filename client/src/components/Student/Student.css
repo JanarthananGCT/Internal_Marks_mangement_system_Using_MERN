@@ -1,0 +1,14 @@
+.Action-Button {
+  width: 45px;
+  height: 40px;
+  background-color: #df04df;
+  color: #fff;
+  border: none;
+  margin: 5px;
+  border-radius: 2px;
+  cursor: pointer;
+  outline: none;
+}
+.roll{
+  color: darkorange;
+}
